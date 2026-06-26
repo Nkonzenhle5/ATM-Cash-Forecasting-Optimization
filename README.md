@@ -23,9 +23,14 @@ Key variables include:
 - Working Day indicator
 - Festival / Holiday information
 
-The dataset represents daily withdrawal activity across multiple ATM locations.
 
-Note: The raw dataset is not included in this repository.
+The data was originally sourced from Kaggle and then uploaded locally into SAS for analysis.
+
+In the SAS environment, the dataset was accessed using:
+
+filename atmfile "~/ATMS/transactions_in_usd.csv";
+
+Note: The dataset is not included in this repository.
 
 ---
 
