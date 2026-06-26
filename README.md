@@ -99,7 +99,7 @@ The improved model provides a better balance between these two factors.
 
 ## Files
 
-- `atm_project_final.sas` → SAS code for the full project
+- `atm_project.sas` → SAS code for the full project
 
 ---
 
